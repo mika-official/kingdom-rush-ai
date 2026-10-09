@@ -1,0 +1,36 @@
+{
+  "format": "v10-walkthrough-catalog-v1",
+  "schema": "candidate-v10",
+  "datasets": [
+    {
+      "manifest": "verified/prefix_level_13.json"
+    },
+    {
+      "manifest": "verified/prefix_level_18.json"
+    },
+    {
+      "manifest": "verified/prefix_level_23.json"
+    },
+    {
+      "manifest": "verified/prefix_level_25.json"
+    },
+    {
+      "manifest": "verified/prefix_level_14.json"
+    },
+    {
+      "manifest": "verified/prefix_level_15.json"
+    },
+    {
+      "manifest": "verified/prefix_level_16.json"
+    },
+    {
+      "manifest": "verified/prefix_level_17.json"
+    },
+    {
+      "manifest": "verified/prefix_level_20.json"
+    },
+    {
+      "manifest": "verified/prefix_level_24.json"
+    }
+  ]
+}

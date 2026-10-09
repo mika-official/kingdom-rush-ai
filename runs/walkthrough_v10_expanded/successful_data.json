@@ -1,0 +1,48 @@
+{
+  "format": "v10-walkthrough-catalog-v1",
+  "schema": "candidate-v10",
+  "datasets": [
+    {
+      "manifest": "verified/level_13_20261005_214855_945585.json"
+    },
+    {
+      "manifest": "verified/level_18_20261005_215042_883171.json"
+    },
+    {
+      "manifest": "verified/level_23_20261005_214629_906951.json"
+    },
+    {
+      "manifest": "verified/level_25_20261005_215150_689981.json"
+    },
+    {
+      "manifest": "verified/level_13_20261005_215447_717208.json"
+    },
+    {
+      "manifest": "verified/level_18_20261005_215338_099140.json"
+    },
+    {
+      "manifest": "verified/level_23_20261005_220325_644126.json"
+    },
+    {
+      "manifest": "verified/level_25_20261005_215833_088015.json"
+    },
+    {
+      "manifest": "verified/level_14_20261006_155449_748333.json"
+    },
+    {
+      "manifest": "verified/level_15_20261006_155858_214331.json"
+    },
+    {
+      "manifest": "verified/level_16_20261006_160343_086626.json"
+    },
+    {
+      "manifest": "verified/level_17_20261006_160635_386019.json"
+    },
+    {
+      "manifest": "verified/level_20_20261006_161720_773965.json"
+    },
+    {
+      "manifest": "verified/level_24_20261006_170607_836409.json"
+    }
+  ]
+}

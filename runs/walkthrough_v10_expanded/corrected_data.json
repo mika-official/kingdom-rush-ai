@@ -1,0 +1,9 @@
+{
+  "format": "v10-walkthrough-catalog-v1",
+  "schema": "candidate-v10",
+  "datasets": [
+    {
+      "manifest": "successful_data.json"
+    }
+  ]
+}
